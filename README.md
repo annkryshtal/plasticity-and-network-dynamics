@@ -5,7 +5,21 @@ These studies were carried out under the supervision of leading researchers at I
 
 ---
 
-## 📁 Project 1: Structure of Visual Microcircuits
+## 📁 Project 1: STDP and Gamma Oscillations
+
+**Institution**: Ludwig Maximilian University of Munich (LMU)  
+**Supervisor**: Dr. Caroline Geisler  
+**Title**: *STDP-Induced Plasticity Effects on Hippocampal Gamma Oscillations*
+
+This project investigated how spike-timing-dependent plasticity (STDP) influences oscillatory activity in hippocampal networks. I implemented a network model to examine how plasticity mechanisms can affect the emergence and stability of gamma rhythms.
+
+**Keywords**: STDP, gamma oscillations, hippocampus, plasticity, network simulations
+
+➡️ [Project folder](./gamma-oscillations)
+
+---
+
+## 📁 Project 2: Structure of Visual Microcircuits
 
 **Institution**: Institute of Science and Technology Austria (ISTA)  
 **Supervisor**: Prof. Tim Vogels  
@@ -17,19 +31,6 @@ This project focused on analyzing and modeling synaptic connectivity patterns in
 
 ➡️ [Project folder](./visual-microcircuits)
 
----
-
-## 📁 Project 2: STDP and Gamma Oscillations
-
-**Institution**: Ludwig Maximilian University of Munich (LMU)  
-**Supervisor**: Dr. Caroline Geisler  
-**Title**: *STDP-Induced Plasticity Effects on Hippocampal Gamma Oscillations*
-
-This project investigated how spike-timing-dependent plasticity (STDP) influences oscillatory activity in hippocampal networks. I implemented a network model to examine how plasticity mechanisms can affect the emergence and stability of gamma rhythms.
-
-**Keywords**: STDP, gamma oscillations, hippocampus, plasticity, network simulations
-
-➡️ [Project folder](./gamma-oscillations)
 
 ---
 
